@@ -50,7 +50,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/HW-XMTeam/baseikal.git
+git clone https://github.com/raflyverdy/replybot.git
 cd baseikal-master
 pkg install yarn
 yarn
